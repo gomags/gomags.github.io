@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey, thanks for visiting my website. I'm Aayush - a recent (2021) graduate from the [University of Washington](https://www.washington.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
+Hello, I'm Gopi - a current graduate student from the University of Southern California. I'm a Data Scientist with over three years of experience working in fast-scaling & high-performance teams.
 
-Currently, I am working as a Machine Learning Engineer at [Stats Perform](https://www.statsperform.com/) aiming to build a platform to help Data Scientists and AI Scientists in productionizing their models. I have also recently worked as a Student Researcher at [Microsoft](https://www.microsoft.com/en-us/) and at [TerraClear](https://www.terraclear.com/) as a Software Engineer. I have a Bachelor of Technology degree in Computer Science from the [University of Mumbai](https://kjsce.somaiya.edu/en).
+Currently, I am working as a Machine Learning Engineer at [Stats Perform](https://www.statsperform.com/) aiming to build a platform to help Data Scientists and AI Scientists in productionizing their models. I have also recently worked as a Data Science Intern at [Gopuff](https://www.gopuff.com/go/about-us) and at [Mu Sigma](https://www.mu-sigma.com/) as a Data Scientist. I have a Bachelor of Technology degree in Electronics and Communications from the [Amrita University, Coimbatore](https://www.amrita.edu/).
 
 I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
