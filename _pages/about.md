@@ -11,61 +11,48 @@ Hello, I'm Gopi - a current graduate student from the University of Southern Cal
 
 I have recently worked as a Data Science Intern at [Gopuff](https://www.gopuff.com/go/about-us) and at [Mu Sigma](https://www.mu-sigma.com/) as a Data Scientist. I have a Bachelor of Technology degree in Electronics and Communications from the [Amrita University, Coimbatore](https://www.amrita.edu/).
 
-I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
+I have a strong passion for exploring and adopting new technologies and discovering innovative ways to apply them to my work. I particularly enjoy taking on projects that challenge me to think creatively and outside the box. I am constantly on the lookout for new and exciting opportunities to further develop my skills and broaden my knowledge in the field.
 
-Oh, and also, I'm a sports buff and a HUGE Formula 1 fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
+Hit me up if you want to talk formula one, photogrpahy, machine learning, data science, or anything fun in life! :)
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/usc.jpg" style="padding-right:15px">
 
-**Master of Science (MS) in Information Management, [University of Washington](https://www.washington.edu/)**
-#### September 2019 - Present | Seattle, USA
+**Master of Science (MS) in Machien Learnign and Data Science, [University of Southern California](https://www.usc.edu/)**
+#### August 2021 - Present | Los Angeles, CA
 
 -----
-I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
-<strong>CGPA: </strong> 3.82/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
-* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
-* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
-* <strong>Fall '19: </strong>Foundations of Data Science  <br>
+* Machine Learning I & II, Statistics, Deep Learning, Databases, Cloud Technologies <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/amrita.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Computer Science, [University of Mumbai](https://mu.ac.in/)**
-#### August 2015 - June 2019 | Mumbai, India
+**Bachelor of Technology (B.Tech) in Electronics and Communications, [Amrita University]([https://mu.ac.in/](https://www.amrita.edu/))**
+#### July 2014 - April 2018 | Coimbatore, India
 
 -----
-I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
-<strong>CGPA:</strong> 3.7/4.0 <br> 
-<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
-<br>
+
 # Experience
 -----
-<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/uscp.png" style="padding-right:15px">
 
-**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
-#### June 2020 - Present | Seattle, USA
+**Data Analyst, [USC School of Pharmacy](https://pharmacyschool.usc.edu/)**
+#### September 2022 - Present | Los Angeles, CA
+-----
+
+
+-----
+-----
+<img align="left" height="100" width="100" src="../images/gopuff.png" style="padding-right:15px">
+
+**Data Science Intern, [Gopuff - goBrands Inc.](https://www.gopuff.com/go/about-us)** 
+#### May 2022 - August 2022 | Philadelphia, PA
 ----- 
-*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
-*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
-*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
-*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
-*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+*	Built a data and model pipeline in collaboration with Data Science and Operations teams for estimating workers required for packing based on incoming orders while optimizing queue time using queuing theory and machine learning models replacing the current manual heuristics model
+*	Implemented time series forecasting algorithms to estimate convenience orders from total and reduced overstaffing in warehouses by 30%
 
------
-<img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
-
-**Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
-#### June 2018 - August 2018 | Mumbai, India
------
-*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
-*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
-*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
-
------
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
 
 **Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
