@@ -58,12 +58,12 @@ Hit me up if you want to talk formula one, photogrpahy, machine learning, data s
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
-* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
+* <strong> Programming Languages: </strong> Python, R, SQL <br>
+* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu, MacOS <br>
 * <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
-* <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
-* <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
+* <strong> Databases: </strong> MySQL, PostreSQL, MongoDB <br>
+* <strong> Visualization Tools: </strong> Tableau, PowerBI, RShiny <br>
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-* <strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
+* <strong> Tools: </strong> AWS SageMaker, AWS EC2, Jira, Git, MS Excel <br>
   
 ----
