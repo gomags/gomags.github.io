@@ -48,7 +48,7 @@ Hit me up if you want to talk formula one, photogrpahy, machine learning, data s
 #### May 2022 - August 2022 | Philadelphia, PA
 ----- 
 
-<img align="left" height="100" width="100" src="../images/musigma.jpeg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/musigma.png" style="padding-right:15px">
 
 **Data Scientist, [Mu Sigma](https://www.mu-sigma.com/)** 
 #### June 2018 - July 2021 | Bangalore, India
