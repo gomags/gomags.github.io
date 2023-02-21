@@ -17,7 +17,7 @@ Hit me up if you want to talk formula one, photogrpahy, machine learning, data s
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/usc.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/usc.png" style="padding-right:15px">
 
 **Master of Science (MS) in Machien Learnign and Data Science, [University of Southern California](https://www.usc.edu/)**
 #### August 2021 - Present | Los Angeles, CA
