@@ -29,7 +29,7 @@ Hit me up if you want to talk formula one, photogrpahy, machine learning, data s
 -----
 <img align="left" height="100" width="100" src="../images/amrita.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Electronics and Communications, [Amrita University]([https://mu.ac.in/](https://www.amrita.edu/))**
+**Bachelor of Technology (B.Tech) in Electronics and Communications, [Amrita University](https://www.amrita.edu/)**
 #### July 2014 - April 2018 | Coimbatore, India
 
 -----
@@ -40,35 +40,19 @@ Hit me up if you want to talk formula one, photogrpahy, machine learning, data s
 
 **Data Analyst, [USC School of Pharmacy](https://pharmacyschool.usc.edu/)**
 #### September 2022 - Present | Los Angeles, CA
------
 
-
------
 -----
 <img align="left" height="100" width="100" src="../images/gopuff.png" style="padding-right:15px">
 
 **Data Science Intern, [Gopuff - goBrands Inc.](https://www.gopuff.com/go/about-us)** 
 #### May 2022 - August 2022 | Philadelphia, PA
 ----- 
-*	Built a data and model pipeline in collaboration with Data Science and Operations teams for estimating workers required for packing based on incoming orders while optimizing queue time using queuing theory and machine learning models replacing the current manual heuristics model
-*	Implemented time series forecasting algorithms to estimate convenience orders from total and reduced overstaffing in warehouses by 30%
 
-<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/musigma.jpeg" style="padding-right:15px">
 
-**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
-#### December 2015 - January 2016 | Mumbai, India
+**Data Scientist, [Mu Sigma](https://www.mu-sigma.com/)** 
+#### June 2018 - July 2021 | Bangalore, India
 -----
-*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
-*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
-
------
-<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
-
-**Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
-#### July 2015 - August 2015 | Mumbai, India
------
-*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
-*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
 
 <br>
 
